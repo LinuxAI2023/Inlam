@@ -1,0 +1,17 @@
+Tidigare förkunskaper angående kodning:
+
+Gymnasie: Grundläggande kodning i Visual Studios (Into Visual Studio Code). Endast en termin, inte nog för att
+kunna koda appar eller något bortom övningsprogam. Tog studenten våren cirka 2018.
+Universitet: Python, en kurs på 10 veckor. Hösten 2021 eller 2022.
+Universitet: MatLab, ett flertal olika kurser använde det under mina tidigare försök till högre utbildning, 2018-2019, 2020-2022.
+Universitet: Maple, har mycket mindre erfarenhet i detta än MatLab då endast en eller två kurser lädre ut det. Tidsperiod~ 2018-2019.
+Har också mindre erfarenhet med att göra mods till ett spel med hjälp av ChatGPT, dock inte mycket.
+
+Trotts efrarenheten i de olika programeringsspråken har mycket av min kunskap angående 
+dem blivit suddigt och är i behov av en kortare repetition. Ursäkta eventuella stavfel, dyslektiker.
+
+Förväntningar inför kursens innehåll:
+
+Grundläggande kunskaper innom Python och förmågan att skapa simpla program via Visual Studios Code.
+
+Linux Tegman
