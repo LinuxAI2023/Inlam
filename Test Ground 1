@@ -1,0 +1,12 @@
+A=2; B=3;
+
+#multiplication(A,B) -Fungerar inte före funktionen har definerats.
+
+def multiplication(A,B):
+    Answer=A*B
+    return Answer
+
+Svar=multiplication(A,B)
+print(Svar);
+
+#input fungerar bara på sträng
